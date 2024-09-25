@@ -1,0 +1,58 @@
+.container{
+    padding: 0 15px;
+    color: #fff;
+}
+
+h4{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.content{
+    background-color: #0f0f0f;
+    margin: 24px auto;
+    padding: 24px;
+    max-width: 400px;
+    border-radius: 8px;
+}
+
+.content img{
+    margin-bottom: 10px;
+    width: 60px;
+    transition: all 1s;
+}
+
+.content img:hover{
+    transform: rotate(360deg);
+}
+
+.content p{
+    margin-bottom: 10px;
+}
+
+.profit{
+    color: #22d752;
+}
+
+.loss{
+    color: #d72223;
+}
+
+.loader{
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
