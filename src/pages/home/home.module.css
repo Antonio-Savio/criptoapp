@@ -53,6 +53,15 @@ table th{
     text-align: center;
 }
 
+table th{
+    transition: 0.3s ease;
+}
+
+table th:not(:first-child):hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
 .tdLabel,
 .tdLoss,
 .tdProfit{

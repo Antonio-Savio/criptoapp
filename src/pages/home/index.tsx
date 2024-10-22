@@ -139,10 +139,10 @@ export function Home() {
         <thead>
           <tr>
             <th scope='col'>Moeda</th>
-            <th scope='col' onClick={() => sortByParam("marketCapUsd")} style={{cursor: 'pointer'}}>Valor mercado</th>
-            <th scope='col' onClick={() => sortByParam("priceUsd")} style={{cursor: 'pointer'}}>Preço</th>
-            <th scope='col' onClick={() => sortByParam("volumeUsd24Hr")} style={{cursor: 'pointer'}}>Volume</th>
-            <th scope='col' onClick={() => sortByParam("changePercent24Hr")} style={{cursor: 'pointer'}}>Mudança 24h</th>
+            <th scope='col' onClick={() => sortByParam("marketCapUsd")}>Valor mercado</th>
+            <th scope='col' onClick={() => sortByParam("priceUsd")}>Preço</th>
+            <th scope='col' onClick={() => sortByParam("volumeUsd24Hr")}>Volume</th>
+            <th scope='col' onClick={() => sortByParam("changePercent24Hr")}>Mudança 24h</th>
           </tr>
         </thead>
 
