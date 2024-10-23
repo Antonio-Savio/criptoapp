@@ -4,3 +4,5 @@ A website that displays information about cryptocurrencies in a table format. Al
 ## View the Application 🌎
 [Criptoapp](https://criptoapp-ten.vercel.app/)
 
+## Desktop Version 🖥️
+<img src="src/assets/desktop-version-cripto.gif" alt="Desktop gif">
