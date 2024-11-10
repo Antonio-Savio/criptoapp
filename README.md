@@ -5,4 +5,13 @@ A website that displays information about cryptocurrencies in a table format. Al
 [Criptoapp](https://criptoapp-ten.vercel.app/)
 
 ## Desktop Version 🖥️
-<img src="src/assets/desktop-version-cripto.gif" alt="Desktop gif">
+<img src="src/assets/desktop-version-cripto.gif" alt="Desktop gif">  
+
+## Mobile Version 📱
+<img width="320px" src="src/assets/mobile-version-cripto.gif" alt="Desktop gif">
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software for personal and commercial purposes, as long as the original license and copyright notice are included. There is no warranty for the code provided, and the author is not liable for any issues arising from the use of this software.
