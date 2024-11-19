@@ -22,6 +22,7 @@ A website that displays information about cryptocurrencies in a table format. Al
 
 ## Used Technologies ⚙️
 - React JS: JavaScript library for building user interfaces.
+- TypeScript: adds additional syntax to JavaScript to support a tighter integration with the editor. Catch errors early in the editor.
 - CSS modules: CSS file where all class names and animation names are scoped locally by default.
 - Coincap API: Provides real-time data for various cryptocurrencies, including prices, market caps, and volume.
 - React-router-dom: A library for handling navigation between pages in React web applications, enabling route creation and rendering specific components for each route.
