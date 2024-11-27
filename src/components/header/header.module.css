@@ -5,3 +5,11 @@
     height: 120px;
     max-width: 1080px;
 }
+
+.container a h1{
+    color: #0f8ad1;
+}
+
+.container a h1 span{
+    color: #fff;
+}
